@@ -1,3 +1,15 @@
 body {
     background-color: rgb(216, 216, 216); /*fundo '-'*/
 }
+
+img {
+    width: 20%
+}
+
+header{
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
