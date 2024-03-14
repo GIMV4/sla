@@ -21,5 +21,10 @@ header{
 }
 
 .passaro{
-    background-color:rgb(136, 201, 255);   
+    background-color: rgb(136, 201, 255);
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    border: 10px solid;
+}  
 }
