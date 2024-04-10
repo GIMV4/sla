@@ -9,7 +9,7 @@ img {
 header{
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
+    align-items: center;
     align-content: space-around;
     flex-wrap: wrap;
     flex-direction: row;
