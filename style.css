@@ -27,7 +27,7 @@ header{
     flex-direction: column;
     
 }  
-.Pitié{
+#Pitié{
   display:grid;
   grid-template-columns: 33% 33% 33%;
   text-align: center;
