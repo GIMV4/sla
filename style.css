@@ -31,7 +31,8 @@ header{
   display:grid;
   grid-template-columns: 33% 33% 33%;
   display: flex;
-  justify-content: space-between;  
+  justify-content: space-around;  
   background-color: rgb(209, 209, 209);
   padding: 30px;
+
 }
