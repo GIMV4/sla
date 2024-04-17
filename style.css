@@ -26,6 +26,7 @@ header{
     display: flex;
     padding: 20px;
     flex-direction: column;
+
     
 }  
 #Pitié{
@@ -57,4 +58,5 @@ footer{
 p{
     padding-left: 100px;
     padding-right: 100px;
+    font-size: larger;
 }
