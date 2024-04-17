@@ -40,6 +40,7 @@ header{
 }
 .tamanho{
     width: 30%;
+    display: grid;
     text-align: center;
     justify-content: space-around;
 }
