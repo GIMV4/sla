@@ -32,11 +32,11 @@ header{
     
 }  
 #Pitié{
-  display:grid;
+    background-color: rgb(209, 209, 209);
+    display:grid;
   grid-template-columns: 33% 33% 33%;
   text-align: center;
   justify-content: space-around;  
-  background-color: rgb(209, 209, 209);
   padding: 30px;
 
 }
