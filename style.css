@@ -18,6 +18,7 @@ header{
 
 .passaro1{
     width: 20%;
+    padding: 100px;
 }
 
 .passaro{
@@ -48,4 +49,5 @@ footer{
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
 }
